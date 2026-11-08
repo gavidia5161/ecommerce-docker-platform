@@ -1,0 +1,17 @@
+.git
+.env
+.env.*
+vendor
+node_modules
+public/build
+storage/logs/*.log
+tests
+phpunit.xml
+README.md
+vite.config.js
+package.json
+package-lock.json
+resources/css
+resources/js
+resources/views/welcome.blade.php
+*.log
